@@ -10,6 +10,6 @@
 - token is saved in dynamodb
 
 ### todo list:
-- add expiry
+- add expiry/ttl to token
 - remove any hardcoding (table names etc)
 - optimisation
